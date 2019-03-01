@@ -1,0 +1,12 @@
+.contenedor_vertical{
+  height: 500px;
+  align-content: center;
+}
+.imagen_perfil{
+  margin: auto;
+  transform: rotate(90deg);
+}
+
+.imagen_viaje{
+  margin: auto;
+}
